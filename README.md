@@ -14,7 +14,19 @@ Applied AI Engineer at [deepsense.ai](https://deepsense.ai), based in Warsaw. I 
 
 ```mermaid
 flowchart LR
-    A["Chapter 1<br/>Data Analyst"] --> B["Chapter 2<br/>Data Scientist"] --> C["Chapter 3<br/>ML / Applied AI Engineer"]
+    subgraph C1["Chapter 1: Data Analyst"]
+        direction TB
+        a1["Process mapping with business teams"] ~~~ a2["Dashboards and reporting"] ~~~ a3["Python automation and internal apps"] ~~~ a4["Training the people who use them"]
+    end
+    subgraph C2["Chapter 2: Data Scientist"]
+        direction TB
+        b1["ML models: XGBoost, LightGBM"] ~~~ b2["Analysis on GCP and BigQuery"] ~~~ b3["Test environments for LLMs"]
+    end
+    subgraph C3["Chapter 3: ML / Applied AI Engineer"]
+        direction TB
+        c1["LLM applications and agents"] ~~~ c2["FastAPI backends and data models"] ~~~ c3["LLM output validation"] ~~~ c4["Tests and code review automation"]
+    end
+    C1 --> C2 --> C3
 ```
 
 8+ years across pharma, telecom and AI companies. Each chapter added something I still use every day:
