@@ -42,7 +42,7 @@ I like working where one person can cover a lot of ground. I can:
 - Sit down with the people who have the problem and map how the process really works
 - Build the solution end to end: data, API, model, tests
 - Document it and train the people who will use it
-- Share what I learn, with my team (I recently gave a talk on vibe coding) and in public on Instagram
+- Share what I learn. I gave a deeptalk on vibe coding, part of the deepsense.ai talk series, about building software with AI coding tools: [watch it on YouTube](https://www.youtube.com/watch?v=0eK4je7_nxA). I also post about data and AI on Instagram
 
 ## Featured chapters
 
@@ -97,7 +97,7 @@ Currently working toward the Anthropic CCAR-F certification.
 
 - Moving from data analyst to ML engineer
 - Checking whether an LLM's answer is actually right
-- Vibe coding, and where it helps or hurts
+- Vibe coding, and where it helps or hurts ([my talk](https://www.youtube.com/watch?v=0eK4je7_nxA))
 
 ## Say hi
 
