@@ -42,7 +42,7 @@ I like working where one person can cover a lot of ground. I can:
 - Sit down with the people who have the problem and map how the process really works
 - Build the solution end to end: data, API, model, tests
 - Document it and train the people who will use it
-- Share what I learn. I gave a deeptalk on vibe coding, part of the deepsense.ai talk series, about building software with AI coding tools: [watch it on YouTube](https://www.youtube.com/watch?v=0eK4je7_nxA). I also post about data and AI on Instagram
+- Share what I learn. I gave a deeptalk on vibe coding, part of the deepsense.ai talk series, about AI-driven software development: [watch it on YouTube](https://www.youtube.com/watch?v=0eK4je7_nxA). I also post about data and AI on Instagram
 
 ## Featured chapters
 
